@@ -4,7 +4,7 @@
     "frame_h": 250,
     "prefix": "sxa_",
     "allow_upscale": true,
-    "svg_engine": "auto",
+    "svg_engine": "inkscape",
     "version": 2
   },
   "files": {
@@ -15,7 +15,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -26,7 +26,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -37,7 +37,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -48,7 +48,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -59,7 +59,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -70,7 +70,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -81,7 +81,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -92,7 +92,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -103,7 +103,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -114,7 +114,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -125,7 +125,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -136,7 +136,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -147,7 +147,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -158,7 +158,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -169,18 +169,18 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
     "Portugal/V+TVI.png": {
-      "src_sha1": "812e9b2fa3fbd7ce56cb1610affa1c59191979f7",
+      "src_sha1": "df2af458c0a975f6d22d50de8bb349b6edb21a8f",
       "cfg": {
         "frame_w": 512,
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -191,7 +191,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -202,7 +202,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -213,7 +213,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -224,7 +224,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -235,7 +235,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -246,7 +246,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -257,7 +257,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -268,7 +268,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -279,7 +279,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -290,7 +290,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -301,7 +301,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -312,7 +312,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -323,7 +323,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -334,7 +334,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -345,7 +345,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -356,7 +356,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -367,7 +367,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -378,7 +378,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -389,7 +389,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -400,7 +400,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -411,7 +411,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -422,7 +422,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -433,7 +433,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -444,7 +444,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -455,7 +455,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -466,7 +466,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -477,7 +477,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -488,7 +488,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -499,7 +499,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -510,7 +510,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -521,7 +521,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -532,7 +532,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -543,7 +543,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -554,7 +554,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -565,7 +565,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -576,7 +576,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -587,7 +587,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -598,7 +598,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -609,7 +609,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -620,7 +620,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -631,7 +631,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -642,7 +642,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -653,7 +653,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -664,7 +664,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -675,7 +675,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -686,7 +686,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -697,7 +697,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -708,7 +708,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -719,7 +719,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -730,7 +730,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -741,7 +741,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -752,7 +752,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -763,7 +763,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -774,7 +774,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -785,7 +785,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -796,7 +796,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -807,7 +807,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -818,7 +818,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -829,7 +829,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -840,7 +840,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -851,7 +851,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -862,7 +862,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -873,7 +873,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -884,7 +884,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -895,7 +895,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -906,7 +906,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -917,7 +917,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -928,7 +928,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -939,7 +939,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -950,7 +950,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -961,7 +961,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -972,7 +972,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -983,7 +983,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -994,7 +994,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -1005,7 +1005,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -1016,7 +1016,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -1027,7 +1027,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -1038,7 +1038,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     },
@@ -1049,7 +1049,7 @@
         "frame_h": 250,
         "prefix": "sxa_",
         "allow_upscale": true,
-        "svg_engine": "auto",
+        "svg_engine": "inkscape",
         "version": 2
       }
     }
