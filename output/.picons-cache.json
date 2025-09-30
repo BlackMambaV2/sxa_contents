@@ -1,0 +1,1057 @@
+{
+  "_config": {
+    "frame_w": 512,
+    "frame_h": 250,
+    "prefix": "sxa_",
+    "allow_upscale": true,
+    "svg_engine": "auto",
+    "version": 2
+  },
+  "files": {
+    "Portugal/SIC.png": {
+      "src_sha1": "a7e84a9bacb9e06aec8063b66511c6c0a1e9b2bb",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CANAL_Q.png": {
+      "src_sha1": "ede5722ec433b861d995b7cb9f30e85b4c24183d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DIZI.png": {
+      "src_sha1": "a6528d2ae923a99636cbf50a82efa33b25cba1dc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP1.png": {
+      "src_sha1": "1f1677834c014d8fd5758bbe629b269e656e6d39",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP2.png": {
+      "src_sha1": "3a6d5da7513eb946ba770a4c909a0d29b2d6eeb4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_ALTADEFINICAO.png": {
+      "src_sha1": "4c505beaa3d1b487c08291898b9eadac204e8b1d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_CARAS.png": {
+      "src_sha1": "df87c1858291620908ef9be31a4cc7ee4f4efcee",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_INTERNACIONAL.png": {
+      "src_sha1": "162cc6afe8eadf1f1cc3766a4b2908c688cb3b68",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_MULHER.png": {
+      "src_sha1": "5785ef53acec68bfa5fc231fc9c1bd588629badd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_NOTICIAS.png": {
+      "src_sha1": "c7150cfddb12db932c8752fc38f7dfb239d3843b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_NOVELAS.png": {
+      "src_sha1": "ac5bd19476a771fd1cabf74c839ac877665c0b38",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_RADICAL.png": {
+      "src_sha1": "4762972dc0614e32a275258d66369a77bfb8434e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_REPLAY.png": {
+      "src_sha1": "f7db0a36009ce7281103d8a7c100a271a89acf14",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVI.png": {
+      "src_sha1": "24bb43a5e9e86b8d3f1189614601a00b3abdbbef",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVI_REALITY.png": {
+      "src_sha1": "b46c1b5fce42994a51ab809be568723d11999706",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/V+TVI.png": {
+      "src_sha1": "812e9b2fa3fbd7ce56cb1610affa1c59191979f7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/ABOLATV.png": {
+      "src_sha1": "5ea185159dc9efe2404b3e75882771c65df70913",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AMC.png": {
+      "src_sha1": "921dde0c2c2c482eac04f10540976703a50717d6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AMC_BREAK.png": {
+      "src_sha1": "4bb21679993dc1285d04f9b8e2e5913696cc25b1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AMC_CRIME.png": {
+      "src_sha1": "2efb03cbe8355ceea0291a7d37898ce2f246646f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/ARTV.png": {
+      "src_sha1": "aa806c26b980a8bf41143a1d8426af1240c4157d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AXN.png": {
+      "src_sha1": "b872e54718e5e248dc18852bdcc3f41a6530f2f5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AXN_MOVIES.png": {
+      "src_sha1": "f99d28edebb6b5c50444895b085852c917dc1042",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/AXN_WHITE.png": {
+      "src_sha1": "42d5e9ca2bc5e0c4da5c837dcbe99ab48b4d0ccc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/BABY_TV.png": {
+      "src_sha1": "a69bd30ad093d55d8c7ea965ba0787894fa9a73c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/BENFICATV.png": {
+      "src_sha1": "ded7072f9e01110c2a987216a00ac832a231e0cd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/BIGGS.png": {
+      "src_sha1": "197fcbd721ac9cba1b3bc4bb712ae245b9df65fd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CANAL11.png": {
+      "src_sha1": "b4f5ab3ba54069619c2447e81117d0e938680899",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CANAL_HISTORIA.png": {
+      "src_sha1": "6d91ead27616edf438e4634ed7b79affc70cc326",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CANAL_HOLLYWOOD.png": {
+      "src_sha1": "c53a341f67fe19d1e053c57d8c4b21689ae26d3e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CANAL_PANDA.png": {
+      "src_sha1": "99d7dfdbbf868e619fece44e9eec2e59416d751c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CARTONITO.png": {
+      "src_sha1": "93c7e9094eba52dda7a3c99520c8f9227bb63d7c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CARTOON_NETWORK.png": {
+      "src_sha1": "b29f913d0aacdc9f2c113857a674415138e404ce",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CAÇAVISION.png": {
+      "src_sha1": "d1d2e71324cd51e8c42915eefd3e9ef2148b28f8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CAÇA_E_PESCA.png": {
+      "src_sha1": "6ce27e67c78eeee8bca81659f3badc9bb3e32533",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CINEMUNDO.png": {
+      "src_sha1": "b9f9e31f6ae5a1b8e4ed3a48568d0041203f8c93",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CMTV.png": {
+      "src_sha1": "a09046d56ac20a3fe8f812645f763252a955d1f9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/CNN_PORTUGAL.png": {
+      "src_sha1": "1e1f413324fee6f8f5875522430ec275f2321a46",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN1.png": {
+      "src_sha1": "2852b2a49c17074127cf2c85dbdfced2012dec26",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN2.png": {
+      "src_sha1": "d393dda1063f49a35cf56033ea719e4633736cb5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN3.png": {
+      "src_sha1": "05b64fd9ec8de44e0ef83d8c0291cb92e99b1f31",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN4.png": {
+      "src_sha1": "6506207ec65ed55152889f1976de30db5bf74e61",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN5.png": {
+      "src_sha1": "0427a1e6805bcbfbd413a84bcde49628e1fb6fe9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DAZN6.png": {
+      "src_sha1": "22093fd3750b8f2d6116796c024c9c32d78b229c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DISCOVERY_CHANNEL.png": {
+      "src_sha1": "810a5e8ffcfb90df4f32e35a6ee61070948bcab3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DISNEY+.png": {
+      "src_sha1": "3f6197bcda194c70d49fdef8da378e1cf715b5e4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DISNEY_CHANNEL.png": {
+      "src_sha1": "510657619f277f79e55736249c39b2ae2447e19b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DISNEY_JUNIOR.png": {
+      "src_sha1": "0cf42079ec79764319377129bb2986c11fb92f1e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/DISNEY_PIXAR.png": {
+      "src_sha1": "8a41b71e392884f9b21d79bc05957d824b535490",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/E!_ENTERTAINMENT.png": {
+      "src_sha1": "998a4008178cdb52c05cbf584f76bd5cc5550d31",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/EUROSPORT1.png": {
+      "src_sha1": "51998056aaefeef9a924cdbc89e88d82ee7d0333",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/EUROSPORT2.png": {
+      "src_sha1": "2270ca6ad04114b0827982e27c089e4233fc4b80",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/FIGHTNETWORK.png": {
+      "src_sha1": "2abb066d81e71f41727a03010485b0ed806ce712",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/FUELTV.png": {
+      "src_sha1": "a1b9b0c21b6c675672c5c90de505406c3f5f4db0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/ID_INVESTIGATION_DISCOVERY.png": {
+      "src_sha1": "993d33c72bbad26e19829d0567725bb6024fd5ee",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/MOTORVISION.png": {
+      "src_sha1": "3d831f30b8e1d7e00770c399f89f09e1dfb40ffa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NATIONAL_GEOGRAPHIC.png": {
+      "src_sha1": "8df67420c8550a4a56bfaf72cf13e02fc7e4bcbc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NATIONAL_GEOGRAPHIC_WILD.png": {
+      "src_sha1": "f28f4d95d25269fa875fad516880d8a3bf17775c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NEWS_NOW.png": {
+      "src_sha1": "1fb78081948be78b13c8b9c862088f309059d6e3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NICKELODEON.png": {
+      "src_sha1": "75b9ad72d7d42bd614c78537c0cc14c55abd07ee",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NICK_JR.png": {
+      "src_sha1": "70d40eba2fb9e0480070e79fc8fa5ef2b460824e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/NOSSTUDIOS.png": {
+      "src_sha1": "0be8d53c920f477945c83bf6e16ef4d6c3a01c04",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/ODISSEIA.png": {
+      "src_sha1": "5f19b31b694ed393797ee640cf7b1824e5f8f6e3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/ONETORO_TV.png": {
+      "src_sha1": "8a0ed88b9bf47346603f919004a52d776a69955e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/PANDA_KIDS.png": {
+      "src_sha1": "9a2773d715d3e3525f02b29a33e2574ed0d0436a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/PFC.png": {
+      "src_sha1": "9221dca7f6ea008bc744a776356c2b9b4a7cecaa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/PORTO_CANAL.png": {
+      "src_sha1": "baf25059533a550d0985c65514d14b05894b67d8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP ACORES.png": {
+      "src_sha1": "b6091a947fd81cc054fc60e5a2020d128a3de02b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP3.png": {
+      "src_sha1": "670a68a83db7baf82f3adb58212e68ed83bb60af",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP_AFRICA.png": {
+      "src_sha1": "a67a142ebf72391e1bf3b9a8428b4d32c4d6fae6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP_INTERNACIONAL.png": {
+      "src_sha1": "eefe97883a826de276870ef9ee5bf9314f99d215",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP_MADEIRA.png": {
+      "src_sha1": "7bbde0480f6ef9e58261437abfa09468c5204c01",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/RTP_MEMORIA.png": {
+      "src_sha1": "92543551128494a1be324588562f354daef1f6bd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SIC_K.png": {
+      "src_sha1": "3ebe6649d14363c5a9a3b6913743b56ea117c0a5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTINGTV.png": {
+      "src_sha1": "d0945b468d3483a05c8f166904de809a691643b1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV+.png": {
+      "src_sha1": "3f4fd4c7163cd0f9fa3f11561007cef474d862ff",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV1.png": {
+      "src_sha1": "5c869e9bd74e9c74e8f4f1b3c07cd91e28472a17",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV2.png": {
+      "src_sha1": "b97a8eb563ca088d9c87a9bda5a8e93cdfe1523c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV3.png": {
+      "src_sha1": "0ff7e0ad1303b849a2ec7635528737975f812a70",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV4.png": {
+      "src_sha1": "05923d251d47964ebf1f748e6650fbc34fcaef5e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV5.png": {
+      "src_sha1": "0cf8e9476dcf450ca0942699933cc22d6e13bab6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV6.png": {
+      "src_sha1": "9a8af5065aaf3d72fc9747a5927d84e8ebabd1ea",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTV7.png": {
+      "src_sha1": "8c9f43777e072158ce296dba5a7bbb3cc4442687",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SPORTTVNBA.png": {
+      "src_sha1": "8d5c701b676feb053a6c29f5a88afa455460d573",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/STAR_CHANNEL.png": {
+      "src_sha1": "deada641c94ed7d449c55c1429520e400b7f189a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/STAR_COMEDY.png": {
+      "src_sha1": "c4fbc6fab4d5b8b7015b77f5b6b635cc4312c565",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/STAR_CRIME.png": {
+      "src_sha1": "9c640286dfaf31a9a081a85d9f6b56a0978a51da",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/STAR_LIFE.png": {
+      "src_sha1": "cfa986d78854e51bc3549b05527659904b6a8c78",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/STAR_MOVIES.png": {
+      "src_sha1": "2968f8dd1cc3242e7e86d0ce6b987cc24d48acd6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/SYFY.png": {
+      "src_sha1": "006faa7b0af3e4da754113d44411fd094f90fa10",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVCINE_ACTION.png": {
+      "src_sha1": "ef27a9360aa392b6e04dd811c157dc4e1015b52f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVCINE_EDITION.png": {
+      "src_sha1": "8cc661c6dc96a86a3b55b958844d76bcc8166b50",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVCINE_EMOTION.png": {
+      "src_sha1": "85380b65ceef3724b5d711108b9e1b7c4f79615e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVCINE_TOP.png": {
+      "src_sha1": "8a83bd712014ae9d2f08746539c9579b3ba9c71b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Portugal/TVI_AFRICA.png": {
+      "src_sha1": "4c3aac6d54e09068c2083ad5a30b405f78e10376",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    }
+  }
+}
