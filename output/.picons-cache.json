@@ -1382,6 +1382,380 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/13EME_RUE.png": {
+      "src_sha1": "cffa7adbb887c0a432dacabf2f40857237cd4e53",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/6TER.png": {
+      "src_sha1": "8536e1d165c47b0f60408cacf2670c4815694990",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/AB1.png": {
+      "src_sha1": "c90a39f93356189aeed70fcbb7035cfaecfd554f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/AB3.png": {
+      "src_sha1": "04f428c511da77198fbe361813548fdd5b6666db",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/ARTE.png": {
+      "src_sha1": "11d9b83207ae4becf29b3f9760a8d0f9e04d7063",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/BFM_BUSINESS.png": {
+      "src_sha1": "03742c9c277707c0eb5cfa0a80a5974f0ce73367",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/COMEDY_CENTRAL.png": {
+      "src_sha1": "5961fe80b8a154d5cfc6ec77be4fff5ac3bc0e21",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CSTAR.png": {
+      "src_sha1": "cc26de4d4a66df668a6de7739ee041493f184126",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/E!_ENTERTAINMENT.png": {
+      "src_sha1": "998a4008178cdb52c05cbf584f76bd5cc5550d31",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/EURONEWS.png": {
+      "src_sha1": "76ddeaccabcffb11d17b72688c0cc90718178aeb",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCE_2.png": {
+      "src_sha1": "c06b4c9d4c3889475b407885bef0e8982adfa310",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCE_24.png": {
+      "src_sha1": "3090458a0059162e5cc9d407ea9a7260f6c5c6a8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCE_3.png": {
+      "src_sha1": "52a9c891157d97c242db08d4f8798f08d695677e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCE_4.png": {
+      "src_sha1": "bc04cec9adda5868663fead1ee56d99d3fe969b5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCE_5.png": {
+      "src_sha1": "93d3257aa3ceb817da47d755d5c885f1658fdbc9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/I24_NEWS.png": {
+      "src_sha1": "032b28896afb247507196c44cd4b2e009218c09e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/LCI.png": {
+      "src_sha1": "bd2aefc2e009bc5a8f11e16399cabd82e050c2ec",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/M6.png": {
+      "src_sha1": "9102d151304b7a10e391bc0fed1f9a293ac6a2f1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NOVELAS_TV.png": {
+      "src_sha1": "68989451190cba8f361f4602391e8027c44850c5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NRJ_HITS.png": {
+      "src_sha1": "02064be725521fd0938e4e46e1f748a13854156d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/PARIS_PREMIERE.png": {
+      "src_sha1": "bda6cc41d625a108d2bd8e935720935bf1da4b6c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/RMC_LIFE.png": {
+      "src_sha1": "0d24a413931e81d2b6e24cd9bf0a7749509f297d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/RMC_STORY.png": {
+      "src_sha1": "23023b921b7c33d691899162454530537f08c6a2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/RTL9.png": {
+      "src_sha1": "56f3388f0aef864ace014fb5bdfb5f91a96e8130",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/SYFY.png": {
+      "src_sha1": "006faa7b0af3e4da754113d44411fd094f90fa10",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TEVA.png": {
+      "src_sha1": "365248e1d0841c7ec8a2611e24b7086b092cb313",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TF1.png": {
+      "src_sha1": "f5582f705125629687a5c571c225828819188400",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TF1_SERIES_FILMS.png": {
+      "src_sha1": "fd5aad305e7b2a25fbea20aed8a6677e7d5d9f46",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TFX.png": {
+      "src_sha1": "3a87cf3253f9fbdbf69bb5ce370833a5a11a336d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TMC.png": {
+      "src_sha1": "2a876bb4150ed617b589f574026e164294bf15d2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TV5_MONDE.png": {
+      "src_sha1": "c61aff632e72754095c8a8078cf14336eb70d81d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TV_BREIZH.png": {
+      "src_sha1": "fa71d17eab23c6804c777bce4d904c469f44dbc4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/W9.png": {
+      "src_sha1": "9da2cef543c5c42f9fc3c67c2831fb559cfd1ee3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/WARNER_TV.png": {
+      "src_sha1": "83c2f6ba4e80623dc07924072252afbf5577c7e7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
