@@ -1,0 +1,26 @@
+1) Tout refaire (ton cas “je relance et il reconstruit tout”)
+python build_picons.py input output --mode all
+
+2) Seulement les changements / ajouts récents (plus rapide)
+python build_picons.py input output --mode changed
+
+3) Seulement un pays
+python build_picons.py input output --only Portugal --mode changed
+
+4) Plusieurs pays à la fois
+python build_picons.py input output --only "Portugal,France,Italy" --mode changed
+
+5) Exclure un dossier (ex: “Archives”)
+python build_picons.py input output --exclude Archives --mode changed
+
+6) Ne (re)générer que ce qui manque
+python build_picons.py input output --mode missing
+
+7) Filtrer par motif (ex.: ne traiter que les PNG d’un pays)
+python build_picons.py input output --only Portugal --match "Portugal/*.png"
+
+8) Vider la sortie puis reconstruire
+python build_picons.py input output --clean --mode all
+
+9) Dry-run (aperçu sans écrire)
+python build_picons.py input output --only France --mode changed --dry-run
