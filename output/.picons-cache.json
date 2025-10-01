@@ -1371,6 +1371,17 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "Portugal/ALMA_LUSA.png": {
+      "src_sha1": "b4b9506db348a2a93a862f20b0d1b5259be8c3d4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
