@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter-mp4a_130400_fra=20000.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter-avc1_4000000=10001.m3u8
