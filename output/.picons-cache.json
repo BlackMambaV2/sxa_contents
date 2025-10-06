@@ -1767,6 +1767,127 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/ANIMAUX.png": {
+      "src_sha1": "6c2732f45d7f764aa04fd99cf219ea866362a915",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/BET.png": {
+      "src_sha1": "2461da7ac37aaf5cce826282fa7a0b83c09a4d7b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/BFMTV.png": {
+      "src_sha1": "72bb9b303f097dde7822d60076bd51093fca7ac3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CHASSE_ET_PECHE.png": {
+      "src_sha1": "0ff36ea032ef0eadc62283d7489c2834fd726bf6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CNEWS.png": {
+      "src_sha1": "e397bcf1f503ac3cd2ccc10b13e2738d9014b042",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/FRANCEINFO.png": {
+      "src_sha1": "5168fe718e7752709e0f6c0828135c905816e1a4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/RMC_DÉCOUVERTE.png": {
+      "src_sha1": "10a633f053a95b3e5af84884169a8e7c25b3a2af",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/SCIENCE_ET_VIE.png": {
+      "src_sha1": "cd578a84e6ae4279cb67c8fb0eebc6449fd24a0d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/SEASON.png": {
+      "src_sha1": "b6fb10ce62a47c9c7223f9d316dcbe1eec4c1f4f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TOUTE_L'HISTOIRE.png": {
+      "src_sha1": "f968229f1845f30982896c951193fd61d9c9a70a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/USHUAÏA_TV.png": {
+      "src_sha1": "453cd167444f478ee0454c50a83c9d3e8c60e524",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
