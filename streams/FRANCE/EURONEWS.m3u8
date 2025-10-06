@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="fr",DEFAULT=YES,AUTOSELECT=YES,URI="https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews-mp4a_130400_fra=20000.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=4000000,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
-https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews-avc1_2000000=10004.m3u8
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews-avc1_4000000=10000.m3u8

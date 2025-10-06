@@ -1756,6 +1756,17 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/NOVO19.png": {
+      "src_sha1": "f50bf2032f13ff37414be98d3a2452471f17a9f3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }

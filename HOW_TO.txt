@@ -5,7 +5,7 @@ python build_picons.py input output --mode all
 python build_picons.py input output --mode changed
 
 3) Seulement un pays
-python build_picons.py input output --only Portugal --mode changed
+python build_picons.py input output --only France --mode changed
 
 4) Plusieurs pays à la fois
 python build_picons.py input output --only "Portugal,France,Italy" --mode changed
