@@ -1888,6 +1888,17 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/HISTOIRE_TV.png": {
+      "src_sha1": "e2a54730be4edac9f8be1489960383fca17c3832",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
