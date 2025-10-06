@@ -1899,6 +1899,39 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "Switzerland/LEMANBLEU.png": {
+      "src_sha1": "1f907da0da480aa8ed11b24409597fd177b55575",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Switzerland/RTS_DEUX.png": {
+      "src_sha1": "d55d6b2b48959baf62e5a8fdb711ed7783bc3ed0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Switzerland/RTS_UN.png": {
+      "src_sha1": "adcbafec987a953258c7943897ac5fedb91d22e0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
