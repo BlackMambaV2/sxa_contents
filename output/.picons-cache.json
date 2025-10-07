@@ -1932,6 +1932,347 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/BABY_TV.png": {
+      "src_sha1": "a69bd30ad093d55d8c7ea965ba0787894fa9a73c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/BOING.png": {
+      "src_sha1": "511de42d06b883218bab19f0278d291e3f0ef9ae",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/BOOMERANG.png": {
+      "src_sha1": "8a0f572bdb1d9a678ef55b4aadae1b994922ea2c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CANAL +_KIDS.png": {
+      "src_sha1": "ef7b8c3cadab91065b5fcd9390805eb701d16cb2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CANAL+_DOCS.png": {
+      "src_sha1": "cdd3b0d40c7317ac4b5149cf21d98393ff805a58",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CANAL_J.png": {
+      "src_sha1": "52623b586d04a788008392d28cdd0b935006bce1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/CARTOON_NETWORK.png": {
+      "src_sha1": "b29f913d0aacdc9f2c113857a674415138e404ce",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/DISCOVERY_CHANNEL.png": {
+      "src_sha1": "810a5e8ffcfb90df4f32e35a6ee61070948bcab3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/DISNEY_CHANNEL.png": {
+      "src_sha1": "510657619f277f79e55736249c39b2ae2447e19b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/DISNEY_JUNIOR.png": {
+      "src_sha1": "0cf42079ec79764319377129bb2986c11fb92f1e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/GAMEONE.png": {
+      "src_sha1": "a9f91e06b83e15b4d2eb7146bc2798dbc18b122f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/GULLI.png": {
+      "src_sha1": "402c9afdd8dc9ceb2923897a2664d2b290c248ab",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/ID_INVESTIGATION_DISCOVERY.png": {
+      "src_sha1": "993d33c72bbad26e19829d0567725bb6024fd5ee",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/J_ONE.png": {
+      "src_sha1": "22403fca14ffe421a84f59c0b5dc9a2c8392bebc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/MANGAS.png": {
+      "src_sha1": "f4e351d77852399eefd765864bf0a2f7fd5b266b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NATIONAL_GEOGRAPHIC.png": {
+      "src_sha1": "8df67420c8550a4a56bfaf72cf13e02fc7e4bcbc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NATIONAL_GEOGRAPHIC_WILD.png": {
+      "src_sha1": "f28f4d95d25269fa875fad516880d8a3bf17775c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NICKELODEON.png": {
+      "src_sha1": "75b9ad72d7d42bd614c78537c0cc14c55abd07ee",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NICKELODEON_JUNIOR.png": {
+      "src_sha1": "50e4a8471d00aa1206fbe1a94c861387a24f6c29",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/NICKTOONS.png": {
+      "src_sha1": "715f4b946a43e3a0989d755c1f2175936cf1d0d0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/OCS_CHOC.png": {
+      "src_sha1": "4c2ad38cadc1427d7cd48960bcf54a3c38828d32",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/OCS_CITY.png": {
+      "src_sha1": "8f58e51761ba66614096bb034247d8da2e56b00f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/PIWI+.png": {
+      "src_sha1": "d05a2ea294cb73ff966ec76b21b46c436c1c36cc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/PLANETE_PLUS.png": {
+      "src_sha1": "a648bb0c7ba4726e7e2b15d8c1b94876cddf381b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/PLANETE_PLUS_AVENTURE.png": {
+      "src_sha1": "0636a2f709ce1798dadf0d5f7062febed4c8a9a3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/PLANETE_PLUS_CRIME.png": {
+      "src_sha1": "146206c405da4e72a40db130dcdb111fbfb6342e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TELETOON+.png": {
+      "src_sha1": "a1bc11faae2409ca992b303c99e23a05da4f34ad",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TIJI.png": {
+      "src_sha1": "ac4a5ce86700c65d33b48f326e6ad6cfbef90a40",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TLC.png": {
+      "src_sha1": "c8eb3d9745ac6f9787fb45c9b8515ed1eb79c48c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TOONAMI.png": {
+      "src_sha1": "ffba75d6a7d4be16ce95849f4ff2d56ebadbc01c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "France/TREK.png": {
+      "src_sha1": "b7fd83c666b1d6b36aa3247c133d41285415608e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
