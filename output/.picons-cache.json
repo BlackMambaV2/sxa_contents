@@ -2273,6 +2273,17 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "France/WARNER_TV_NEXT.png": {
+      "src_sha1": "33a41425e5b5fc738b2675e898e733a2d5ae59c1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
