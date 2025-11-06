@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="it",LANGUAGE="it",DEFAULT=YES,AUTOSELECT=YES,URI="https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd-mp4a_128000_ita=20007.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=5400207,RESOLUTION=1920x1080,CODECS="avc1.4d402a,mp4a.40.2",AUDIO="audio"
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd-avc1_4500000=10000.m3u8

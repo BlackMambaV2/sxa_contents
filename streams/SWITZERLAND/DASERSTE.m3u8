@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="de",LANGUAGE="de",DEFAULT=YES,AUTOSELECT=YES,URI="https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd-mp4a_130400_deu=20003.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4808873,RESOLUTION=1280x720,CODECS="avc1.640020,mp4a.40.2",AUDIO="audio"
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd-avc1_4000000=10010.m3u8

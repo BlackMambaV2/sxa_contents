@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="de",LANGUAGE="de",DEFAULT=YES,AUTOSELECT=YES,URI="https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha-mp4a_130400_deu=2.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=4225873,RESOLUTION=1024x576,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio"
+https://viamotionhsi.netplus.ch/live/eds/bralpha/browser-HLS8/bralpha-avc1_3500000=7.m3u8
