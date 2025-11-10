@@ -51267,6 +51267,3493 @@
         "svg_engine": "auto",
         "version": 2
       }
+    },
+    "Pluto.tv/FR/Adjugé_vendu__64bab8ba5dc1660008969b5a_colorLogoPNG.png": {
+      "src_sha1": "108cbb263b655493e29ed2874d26f76384145e27",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Adjugé_vendu__64bab8ba5dc1660008969b5a_solidLogoPNG.png": {
+      "src_sha1": "717baa2e35f508b1b3f2e7074dd9c9947f00455c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Alerte_Cobra_62f3e4bc08f5ec000744f552_colorLogoPNG.png": {
+      "src_sha1": "989ef10600d2caec81db255f1a2dc0e81c39243f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Alerte_Cobra_62f3e4bc08f5ec000744f552_solidLogoPNG.png": {
+      "src_sha1": "e35fcd41d4755c19cd177bd50c4c0de9a847c821",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Alerte_à_Malibu_60afaa535580be0007ac9ee4_colorLogoPNG.png": {
+      "src_sha1": "7f4786c46f7f5d1bcd704444492fdab4209442cb",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Alerte_à_Malibu_60afaa535580be0007ac9ee4_solidLogoPNG.png": {
+      "src_sha1": "bad54ed6780175917c117f997c82ff8b4a5fd41d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Allociné_6618e3037bcd8600089b62a8_colorLogoPNG.png": {
+      "src_sha1": "3935afb1a80e4b778e6acc1f33b2d436b5a090ba",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Allociné_6618e3037bcd8600089b62a8_solidLogoPNG.png": {
+      "src_sha1": "58c18bd72cd015cad9f4220e0af133a524946627",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Angela_Anaconda_611e73687fcd580007d1f052_colorLogoPNG.png": {
+      "src_sha1": "5a1f94a8aacc8cc3a30972ec27cfdd82b8d78c9d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Angela_Anaconda_611e73687fcd580007d1f052_solidLogoPNG.png": {
+      "src_sha1": "38e6787f2f56b371a25035759be57238a81c94c3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Avatar_60b4c17a81e29300071d3a39_colorLogoPNG.png": {
+      "src_sha1": "b578dc43988c582f8f28d1db309b24e879ea5501",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Avatar_60b4c17a81e29300071d3a39_solidLogoPNG.png": {
+      "src_sha1": "b80640efb11711ffb5f98a95f8d9d0fb18d80df8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/BBC_Drama_60d35a74c63c3c0008df6a90_colorLogoPNG.png": {
+      "src_sha1": "07753cfb041ec4df58cab4f0c8a3d2ea573a6ea2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/BBC_Drama_60d35a74c63c3c0008df6a90_solidLogoPNG.png": {
+      "src_sha1": "6e134e0d5d815af8ac410e641acf6d0b24a91e3e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Beyblade_664c8ba33d173b00080ef0c8_colorLogoPNG.png": {
+      "src_sha1": "762982224094f308fc96126ff906b81f50773bd3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Beyblade_664c8ba33d173b00080ef0c8_solidLogoPNG.png": {
+      "src_sha1": "3caee93cdcb689f700d50f7d4f3ecc6959361d16",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Billiard_TV_65ccd0483a11680007a137d2_colorLogoPNG.png": {
+      "src_sha1": "428c7c0a6c2eeee93e5bb2207413fc71d0881d52",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Billiard_TV_65ccd0483a11680007a137d2_solidLogoPNG.png": {
+      "src_sha1": "b9f2235faa23963801ec80ed6af7b08302e44f0a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Blue_Bloods_66f55a9a747bfa0008521859_colorLogoPNG.png": {
+      "src_sha1": "fffa2bc55474da4fcbcc740eb600ecf18a0d75d8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Blue_Bloods_66f55a9a747bfa0008521859_solidLogoPNG.png": {
+      "src_sha1": "e78b7079b424c7e61780586ffc4c15c86fdf4c05",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Bob_léponge_5ffc8c345822750007e167de_colorLogoPNG.png": {
+      "src_sha1": "84408e5fdf6ef269f324db87de8cfe1049882430",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Bob_léponge_5ffc8c345822750007e167de_solidLogoPNG.png": {
+      "src_sha1": "076c942aeb855652af395a8077566721e134e27e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Breadwinners_6357ae12066d020007143dc2_colorLogoPNG.png": {
+      "src_sha1": "c1d6f9ef0868604bab8578d1bf50da608b00598f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Breadwinners_6357ae12066d020007143dc2_solidLogoPNG.png": {
+      "src_sha1": "c685d1ded73f36eb5d0c8312d37662ab1ca1df3a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Bubble_Guppies_618e3c1106d23b0007366723_colorLogoPNG.png": {
+      "src_sha1": "83146aa35761be1f4cd9cb7408472ba02d218eb4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Bubble_Guppies_618e3c1106d23b0007366723_solidLogoPNG.png": {
+      "src_sha1": "3a258310ce3a7e9b630ecf9d4bf423a8a0ca8ce2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CATFISH_TV_5f8eb66537867f0007146953_colorLogoPNG.png": {
+      "src_sha1": "4cfcc01986da7879abe15640b105b55e6e7d3bef",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CATFISH_TV_5f8eb66537867f0007146953_solidLogoPNG.png": {
+      "src_sha1": "7db0f7b14bd13738a0895fcefd69ab063649e014",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CBS_News_247_6231ec93779a9d00079ba8e2_colorLogoPNG.png": {
+      "src_sha1": "4feca283f8470f5cbd5d6e89fdf62e5b37bb8eb2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CBS_News_247_6231ec93779a9d00079ba8e2_solidLogoPNG.png": {
+      "src_sha1": "0c5998954dd066c445a08d8aa5b3095abb116173",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Cest_pas_sorcier_63b579961bdba100071214cb_colorLogoPNG.png": {
+      "src_sha1": "ea47dc84b5e486758306a29e67057c9390e0e75f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Cest_pas_sorcier_63b579961bdba100071214cb_solidLogoPNG.png": {
+      "src_sha1": "5a760fb573420e3df7d41a095e95f4ae246b14fc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Charlotte_aux_Fraises_60dc6937b450ad0007377e48_colorLogoPNG.png": {
+      "src_sha1": "2b8273ab3415963797346099a8ad0e4642691b79",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Charlotte_aux_Fraises_60dc6937b450ad0007377e48_solidLogoPNG.png": {
+      "src_sha1": "e274b9b15db0ad5e0146a379fda2a9ea7d223bd1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Cheers_65cce14060eb870008dbd003_colorLogoPNG.png": {
+      "src_sha1": "21c0b44164560a1d3147b6d53c79b1fa58e7e91e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Cheers_65cce14060eb870008dbd003_solidLogoPNG.png": {
+      "src_sha1": "60b07d844805633ee2281ffcaf88914d17196504",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_666_by_Pluto_TV_6823648580b2665220d9e69a_colorLogoPNG.png": {
+      "src_sha1": "28ac2370fff47959fabe057a510ce86338425898",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_666_by_Pluto_TV_6823648580b2665220d9e69a_solidLogoPNG.png": {
+      "src_sha1": "d7eab90b1179cb6a2b205648054ab6186771c307",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Action_by_Pluto_TV_5f8ed1ff5c39700007e2204a_colorLogoPNG.png": {
+      "src_sha1": "ddec7de24d337637c4316eb7973670bb989340e3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Action_by_Pluto_TV_5f8ed1ff5c39700007e2204a_solidLogoPNG.png": {
+      "src_sha1": "a668236d590c6f864ee6d13479817479ed7fdfa2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_by_Pluto_TV_5f8ed0f17564a300082b676a_colorLogoPNG.png": {
+      "src_sha1": "1a904bc5a2036c50b97af37e8cd531ab8d290e22",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_by_Pluto_TV_5f8ed0f17564a300082b676a_solidLogoPNG.png": {
+      "src_sha1": "d08175ea73868c84c74e23028c69d5a78b940d06",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Catastrophe_by_Pluto_TV_65a69ef53af63d000825e0ee_colorLogoPNG.png": {
+      "src_sha1": "507801654539c9b196534afd37f1638c1edb0fe7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Catastrophe_by_Pluto_TV_65a69ef53af63d000825e0ee_solidLogoPNG.png": {
+      "src_sha1": "c9cb14fa38c35947463d2648e4079fa9c0beff6d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_dAsie_by_Pluto_TV_62f3e2d000418d00070f7dbc_colorLogoPNG.png": {
+      "src_sha1": "71b69ab0d31f697a0f612c7698350e1df6296cc1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_dAsie_by_Pluto_TV_62f3e2d000418d00070f7dbc_solidLogoPNG.png": {
+      "src_sha1": "363810a3b0a2c1688859a42791d2bf18150e3e5c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Gore_Slasher_by_Pluto_TV_68236417b85ccee1c1a025ad_colorLogoPNG.png": {
+      "src_sha1": "8be8425ff1d81ebd6974e723dab107ff88488a85",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Gore_Slasher_by_Pluto_TV_68236417b85ccee1c1a025ad_solidLogoPNG.png": {
+      "src_sha1": "d7c7b63f6887eab185fa29c8e4d51930806de024",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Horreur_by_Pluto_TV_66e1978babec540008ce41ac_colorLogoPNG.png": {
+      "src_sha1": "145b8d414c865cad6311782fbece9564c8d4e8d2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Horreur_by_Pluto_TV_66e1978babec540008ce41ac_solidLogoPNG.png": {
+      "src_sha1": "8de6a2517f584cc966379bd8f13b3881a7d0ca38",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Romance_by_Pluto_TV_60812fc8539963000707d1e1_colorLogoPNG.png": {
+      "src_sha1": "3d9de43e76ac41702a69a08170cd0e994e659d84",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Romance_by_Pluto_TV_60812fc8539963000707d1e1_solidLogoPNG.png": {
+      "src_sha1": "1ea1d4d6c2be8e8bdb95490fd25894a7828c9027",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Rétro_by_Pluto_TV_5f8ed168f72fcd0007e56269_colorLogoPNG.png": {
+      "src_sha1": "0626981a94f192c3f05775644c21eb34768910d8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Rétro_by_Pluto_TV_5f8ed168f72fcd0007e56269_solidLogoPNG.png": {
+      "src_sha1": "2894cf366bbe144af2f2797c0392b0f02fea6838",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Sci_Fi_by_Pluto_TV_60c34592c911890007f29a73_colorLogoPNG.png": {
+      "src_sha1": "6622a05a2095a9fc4ea88d72b2f1ca05aa4366b1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Sci_Fi_by_Pluto_TV_60c34592c911890007f29a73_solidLogoPNG.png": {
+      "src_sha1": "105764eecfbb1cb506dd9ed91eb741f813adbb1d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Thrillers_by_Pluto_TV_60c3472a51a2050008dad272_colorLogoPNG.png": {
+      "src_sha1": "adc8952cfd006fb6d38db7e673b985ce43b32850",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Thrillers_by_Pluto_TV_60c3472a51a2050008dad272_solidLogoPNG.png": {
+      "src_sha1": "ec34ab20afc36aaea86f11bd79d96f02049c57bf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Western_by_Pluto_TV_65cca3e2ec452d0008af3a65_colorLogoPNG.png": {
+      "src_sha1": "d362151cd3e81071d57a9b86f22d4eb20820cca8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Western_by_Pluto_TV_65cca3e2ec452d0008af3a65_solidLogoPNG.png": {
+      "src_sha1": "f76f6aa46b339ebe83999ac35d4292f3ef9701fd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Zombies_by_Pluto_TV_66d72108167a8b0008fd7cb3_colorLogoPNG.png": {
+      "src_sha1": "9903d20c596d5bb62bc1283595bf5f9633638235",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ciné_Zombies_by_Pluto_TV_66d72108167a8b0008fd7cb3_solidLogoPNG.png": {
+      "src_sha1": "4c8298b5b66c67201c8be92f079282bfad73bed2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CNN_Headlines_66c45b36a72e7b0008a2b291_colorLogoPNG.png": {
+      "src_sha1": "4241749a4a7393886240235f67b8c92a59e363a6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/CNN_Headlines_66c45b36a72e7b0008a2b291_solidLogoPNG.png": {
+      "src_sha1": "6efe24c8e71c51d5f9742e4f668f427ffc37e4ac",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Coeur_Océan_62f3dd1c2f29ce0007e18596_colorLogoPNG.png": {
+      "src_sha1": "2e7d59336bc3e336195b62f2f549c309c98b11c2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Coeur_Océan_62f3dd1c2f29ce0007e18596_solidLogoPNG.png": {
+      "src_sha1": "b575bc0881f600437edbfc7b29df4dc8a52022f2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Daria_6683b680efa2a10008e8a393_colorLogoPNG.png": {
+      "src_sha1": "1757b1be0c41ea248d82d721135f67ddc202b151",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Daria_6683b680efa2a10008e8a393_solidLogoPNG.png": {
+      "src_sha1": "919557594d098c48ac47438d4a054799d16e437f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/DAZN_Combat_64d626ac9b414d000820e2fc_colorLogoPNG.png": {
+      "src_sha1": "438c50031ad25b110f35ab1de3f95e5e3303d567",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/DAZN_Combat_64d626ac9b414d000820e2fc_solidLogoPNG.png": {
+      "src_sha1": "c6df5d6f6769bc101babdaaa92301c23eb66a743",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Degrassi_611e71322f5f180007001dde_colorLogoPNG.png": {
+      "src_sha1": "3e7c42f3da4f66e08a25c8f570d6766de1ddc806",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Degrassi_611e71322f5f180007001dde_solidLogoPNG.png": {
+      "src_sha1": "3639683db2efe216a0fb7de3e8a3326fde8fd2c6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Denis_la_Malice_68b172aecf5bf624069f506c_colorLogoPNG.png": {
+      "src_sha1": "edad6db383317f7d8802feea3e4c2bd0137fb609",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Denis_la_Malice_68b172aecf5bf624069f506c_solidLogoPNG.png": {
+      "src_sha1": "ca83cda6d03abb7b73d0a9d6535d00b789b1be19",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Diane_femme_flic_6671b26836a2f90008d9333c_colorLogoPNG.png": {
+      "src_sha1": "adf95dec3a170e884e953cc80de06ee87faeecff",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Diane_femme_flic_6671b26836a2f90008d9333c_solidLogoPNG.png": {
+      "src_sha1": "42484f2e8c9cfe3f89265021e5b33181b774d9e0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Digimon_Adventure_617bae1d69bca3000729561e_colorLogoPNG.png": {
+      "src_sha1": "075ab3c6109ee2bf445fdd1223b769d28f22baf9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Digimon_Adventure_617bae1d69bca3000729561e_solidLogoPNG.png": {
+      "src_sha1": "f959daf63232e1b0de0eb6f5991b37814ba30662",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Doraemon_68b17414c23bb80b3c1d5bb5_colorLogoPNG.png": {
+      "src_sha1": "7e0a28295f11bbfd5f1eb384fcf46168a6595c9f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Doraemon_68b17414c23bb80b3c1d5bb5_solidLogoPNG.png": {
+      "src_sha1": "0c28d322a4af8a0ff53d42eb7dd726ca994aa391",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Dora_TV_5f8ecb9524419b0007365a1c_colorLogoPNG.png": {
+      "src_sha1": "49e5fc1559f3828d957b52bfb05d6d436bc1d086",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Dora_TV_5f8ecb9524419b0007365a1c_solidLogoPNG.png": {
+      "src_sha1": "3c167b52e2cc1a60c28ae262424f6a7d4f8221ed",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Dossiers_FBI_5f8edad922b10b000753bc37_colorLogoPNG.png": {
+      "src_sha1": "49103ce8ed9da57a5a391bfcf30c10725ccac9f2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Dossiers_FBI_5f8edad922b10b000753bc37_solidLogoPNG.png": {
+      "src_sha1": "dce46805dabff4283b678a50973777fa88cc5edc",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Echappées_Belles_Co_63b578b524f0cf00072f2a52_colorLogoPNG.png": {
+      "src_sha1": "99198f01b8919f5579d577cc1fd379859315b8ab",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Echappées_Belles_Co_63b578b524f0cf00072f2a52_solidLogoPNG.png": {
+      "src_sha1": "c205d3c12f547fc27a8308df52faa0fde95cdba7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Enquêtes_Criminelles_66f55d0b5e4a6e0008c2b920_colorLogoPNG.png": {
+      "src_sha1": "4f76162df33b55d51cb9d376306c5d597c63613c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Enquêtes_Criminelles_66f55d0b5e4a6e0008c2b920_solidLogoPNG.png": {
+      "src_sha1": "29f836901f282df747dc3cc1da2b8188c86d1c27",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Enquêtes_de_Choc_63921a1bf76e7d0007c998a6_colorLogoPNG.png": {
+      "src_sha1": "21aa552f52f2d11fbbb0ba27bcd5d9e53f9d8b42",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Enquêtes_de_Choc_63921a1bf76e7d0007c998a6_solidLogoPNG.png": {
+      "src_sha1": "b97bc5ecf83efc1c487ae2a9b29fae093e62895e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Euronews_60d35bcaf1ff4a00078af0a6_colorLogoPNG.png": {
+      "src_sha1": "aed03b0178d61201e53c8f41b0d4ad79a8e50a07",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Euronews_60d35bcaf1ff4a00078af0a6_solidLogoPNG.png": {
+      "src_sha1": "7077b255a1cbbde7e6f582718ba28801d992b4ff",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/FailArmy_5f8ecd9169d2d4000864a974_colorLogoPNG.png": {
+      "src_sha1": "2323c135862d3eafdf2ac85d02af891896ced3b7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/FailArmy_5f8ecd9169d2d4000864a974_solidLogoPNG.png": {
+      "src_sha1": "f58ca48c60bc8bd1d0f2c378b26bc2bf590cc7f1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Faites_entrer_laccusé_662a622b5e2370000800f392_colorLogoPNG.png": {
+      "src_sha1": "cb0f71de3b62189f19a91ab2a512cd2b3b6abd98",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Faites_entrer_laccusé_662a622b5e2370000800f392_solidLogoPNG.png": {
+      "src_sha1": "5b53b84eae95b77ad06216848bf2f6899e136125",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Family_Club_64c9260ac0222700089ee62b_colorLogoPNG.png": {
+      "src_sha1": "42ee9d014440150c58b25247d3109b21b80d23ef",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Family_Club_64c9260ac0222700089ee62b_solidLogoPNG.png": {
+      "src_sha1": "df71cc90c07196b861f3687ac49b0908443cad59",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Fanboy_Chum_Chum_6357aeb2b51d2d000779078b_colorLogoPNG.png": {
+      "src_sha1": "6964e596c8bae7266e195dd992e7fd0387af56c2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Fanboy_Chum_Chum_6357aeb2b51d2d000779078b_solidLogoPNG.png": {
+      "src_sha1": "de01ba9ff96945b347c39210d2cd8ed59b3e7728",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/FIFA_660c2a2d2433010008df7e92_colorLogoPNG.png": {
+      "src_sha1": "bb39a26f3b22e8ada9bc35657ed952fc11af1e0b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/FIFA_660c2a2d2433010008df7e92_solidLogoPNG.png": {
+      "src_sha1": "3c771a462f24c08109ccd33b454ee049ed3c5d41",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Flashpoint_66d71ff86b63480008cf15c5_colorLogoPNG.png": {
+      "src_sha1": "ad89ba9e555c49c4258416a2a16df92fa7996286",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Flashpoint_66d71ff86b63480008cf15c5_solidLogoPNG.png": {
+      "src_sha1": "119a5e3753e364d4c51a69feb7299137f80a03b2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Foot_2_Rue_68b17370f9cf3d7cb9b23048_colorLogoPNG.png": {
+      "src_sha1": "b670d44057b421dd1ac9615cb77cb3b534ad3f42",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Foot_2_Rue_68b17370f9cf3d7cb9b23048_solidLogoPNG.png": {
+      "src_sha1": "aad7382c64ae31eafcd42f27dd25694b3361e96b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Forensic_Files_67b4b44a8344dd93339d3757_colorLogoPNG.png": {
+      "src_sha1": "26b5dda950ead2b6eb2a183de203a393e08031fa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Forensic_Files_67b4b44a8344dd93339d3757_solidLogoPNG.png": {
+      "src_sha1": "cbfcbd0bf52fa5986b3b94d7e326f6d2af287120",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Génération_Sitcoms_60afb203ec391c00070ea1bf_colorLogoPNG.png": {
+      "src_sha1": "3f1593589a2df51c05aa15975ce560a5d2f4536a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Génération_Sitcoms_60afb203ec391c00070ea1bf_solidLogoPNG.png": {
+      "src_sha1": "4597fb94346267321b4c3a6f5131b0db59583ab0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Heathcliff_68b170c5e542386ab086e75b_colorLogoPNG.png": {
+      "src_sha1": "ec69d02a7e4c6e8583c6d97ec5e45ed0626c75e4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Heathcliff_68b170c5e542386ab086e75b_solidLogoPNG.png": {
+      "src_sha1": "22936a723d43c0c5da3743a58d614be31babdd83",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Homicide_63921a3d00c96100082a3cb4_colorLogoPNG.png": {
+      "src_sha1": "3b3ded195a9ca4f8f38df6173ff79a9caf6fd699",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Homicide_63921a3d00c96100082a3cb4_solidLogoPNG.png": {
+      "src_sha1": "2133258b5434963780209c39f272204023c313df",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Hélène_et_les_garçons_604f8de01b479400078fb1e7_colorLogoPNG.png": {
+      "src_sha1": "85855731920ef1fcc437619606cf412bb0e40c52",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Hélène_et_les_garçons_604f8de01b479400078fb1e7_solidLogoPNG.png": {
+      "src_sha1": "4c22a5534ddace265f739f7a6e441837052c4271",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/iCarly_TV_5f8ecc7aa44d9c00081fca29_colorLogoPNG.png": {
+      "src_sha1": "8fd34685b2e3f85f58f896882d651a22bf786bfa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/iCarly_TV_5f8ecc7aa44d9c00081fca29_solidLogoPNG.png": {
+      "src_sha1": "3b5beb17481514c6d138d5a6d86682d57bec1e6b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Inazuma_Eleven_611e75226b7f420007c3f319_colorLogoPNG.png": {
+      "src_sha1": "6ed2d65e702385b5c36f62eb10c087f3c639b04d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Inazuma_Eleven_611e75226b7f420007c3f319_solidLogoPNG.png": {
+      "src_sha1": "19621e92203513fc044ea68102b0befe025cef67",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/INA_70_639b54404cfdf7000729b3c1_colorLogoPNG.png": {
+      "src_sha1": "8c8cdd41fb7fe8584a74f2e14f5a9b314877037d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/INA_70_639b54404cfdf7000729b3c1_solidLogoPNG.png": {
+      "src_sha1": "e537bdb0fc164e0b94a7b427b193291bdcfe1d28",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Incroyables_Transformations_66f55d205e4a6e0008c2b92b_colorLogoPNG.png": {
+      "src_sha1": "00d14aee1fe2e09ccdeabf58414844a227c9ee78",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Incroyables_Transformations_66f55d205e4a6e0008c2b92b_solidLogoPNG.png": {
+      "src_sha1": "a4995336bf68f26f5c415e6ff8eb94a88df684be",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Instant_Saga_60549e98061b5f000776866a_colorLogoPNG.png": {
+      "src_sha1": "5967e4ff964bff3c65e106ae1663279d38197b10",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Instant_Saga_60549e98061b5f000776866a_solidLogoPNG.png": {
+      "src_sha1": "4f594ef1e50cad7070f0288c73606587d7cc9900",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Investigation_by_Pluto_TV_6683cd2fca74680008772545_colorLogoPNG.png": {
+      "src_sha1": "482d9ab6b9fb3dad2d7e8555d16155112c1a4ef5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Investigation_by_Pluto_TV_6683cd2fca74680008772545_solidLogoPNG.png": {
+      "src_sha1": "11e383640d35e5166e9806c4274521e66df70610",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/JAG_65ccd26060eb870008db95fc_colorLogoPNG.png": {
+      "src_sha1": "cc4f5677dfad88e3c91fb91357fbc6ebac725a2b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/JAG_65ccd26060eb870008db95fc_solidLogoPNG.png": {
+      "src_sha1": "ed798cf622fe7ea7eb63e26af2d0241d47f72218",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Juste_pour_Rire_GAGS_60afa1508284e60007163c08_colorLogoPNG.png": {
+      "src_sha1": "8ba6b46c8143e49afcb67f9fc87f443ed52d681d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Juste_pour_Rire_GAGS_60afa1508284e60007163c08_solidLogoPNG.png": {
+      "src_sha1": "87f56484620fdeb18ce106259e5c8a7a452813a1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Just_Tattoo_of_Us_6304f20c941c5d00089634e7_colorLogoPNG.png": {
+      "src_sha1": "795cc3fa2cddc04e8f97a6b0cd4b32caba0fc376",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Just_Tattoo_of_Us_6304f20c941c5d00089634e7_solidLogoPNG.png": {
+      "src_sha1": "415d5010e23d66d1943d5a68f9aad99b0e362868",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/La_maison_France_5_685a999bd33909bdd7d2fb1e_colorLogoPNG.png": {
+      "src_sha1": "fbb73ce553baed45f70a2aa19cabce4de59b7e2f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/La_maison_France_5_685a999bd33909bdd7d2fb1e_solidLogoPNG.png": {
+      "src_sha1": "fbb73ce553baed45f70a2aa19cabce4de59b7e2f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Anges_66b228d4cd0d3100085d27b7_colorLogoPNG.png": {
+      "src_sha1": "67d67ee74372d5648dfae6388424b963cd304295",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Anges_66b228d4cd0d3100085d27b7_solidLogoPNG.png": {
+      "src_sha1": "94b7114b9dd69ce514c3c4371b5497a30622a575",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Années_fac_60afae68a7fc50000737186d_colorLogoPNG.png": {
+      "src_sha1": "e9d42f3248d63aa54d367f54b6eb6b9bbecb7b82",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Années_fac_60afae68a7fc50000737186d_solidLogoPNG.png": {
+      "src_sha1": "da9fd1af1008df2993acf107c4a4d45b5cc52b6c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Cordier_5f8ed80fa09f120007c8daa5_colorLogoPNG.png": {
+      "src_sha1": "d16f1ebd05954ed1bfc9a13ca77354d02968262d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Cordier_5f8ed80fa09f120007c8daa5_solidLogoPNG.png": {
+      "src_sha1": "ef8834aa9fa77947f83951680dc7ce3cc73896fa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_filles_dà_côté_60549d97cd7b090007c73314_colorLogoPNG.png": {
+      "src_sha1": "9e1781683d4995a325df3bf9e5b1447c5d736c4b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_filles_dà_côté_60549d97cd7b090007c73314_solidLogoPNG.png": {
+      "src_sha1": "b2c06095622a9a595cba6b5ecdd732b58b6fb72e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Marseillais_66f55d565e4a6e0008c2b9d2_colorLogoPNG.png": {
+      "src_sha1": "1a05c5d5b63dc78e8f8b6e5eb7b8d0b787f2090e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Marseillais_66f55d565e4a6e0008c2b9d2_solidLogoPNG.png": {
+      "src_sha1": "1fe679a9600009284733e07bc7d34a983ded5c85",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Nouveaux_Detectives_5f8edb6df1ebb800072edf10_colorLogoPNG.png": {
+      "src_sha1": "6f3e6d69d9a1a19a11149433ba3b20d6ba3a24f0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Nouveaux_Detectives_5f8edb6df1ebb800072edf10_solidLogoPNG.png": {
+      "src_sha1": "4ee21f9dbfd5998e79713f5422210798c7508769",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Reines_du_Shopping_66f55c55940963000810bb14_colorLogoPNG.png": {
+      "src_sha1": "caa2636dcf8a6fa2d768fbb0e505a910cfb16960",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Reines_du_Shopping_66f55c55940963000810bb14_solidLogoPNG.png": {
+      "src_sha1": "caa2636dcf8a6fa2d768fbb0e505a910cfb16960",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Routes_du_Paradis_65cce23bdc10a400080645ad_colorLogoPNG.png": {
+      "src_sha1": "1064223500d40bb567bfdbc6ae64e9fb3ecbb5ef",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Routes_du_Paradis_65cce23bdc10a400080645ad_solidLogoPNG.png": {
+      "src_sha1": "d3f1c10749c6a83c54ae26073ac27e76b7c1ddb8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Schtroumpfs_68b16d2282862c1f067dc763_colorLogoPNG.png": {
+      "src_sha1": "e5e99bcae4dcc71e449035634f14cf46319937ab",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Schtroumpfs_68b16d2282862c1f067dc763_solidLogoPNG.png": {
+      "src_sha1": "fa5058d6f2972dfba58c0cb60c7d17519276ad5d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Zamours_652d0b756208700008d758ad_colorLogoPNG.png": {
+      "src_sha1": "3d6b3afff1ad32f73952109b830ad85ecbbe0c86",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Les_Zamours_652d0b756208700008d758ad_solidLogoPNG.png": {
+      "src_sha1": "bbaa837ad8acce43d572733c651270af06ea9422",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Le_Figaro_TV_650aff3398020f00086380cd_colorLogoPNG.png": {
+      "src_sha1": "6adb43408531b6f673ea7e89d639ce872a6ca8c0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Le_Figaro_TV_650aff3398020f00086380cd_solidLogoPNG.png": {
+      "src_sha1": "110e1453fc85bd1dddbb9195dab653978fc19696",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Le_miracle_de_lamour_60549c238c3f21000753d3e0_colorLogoPNG.png": {
+      "src_sha1": "00aa4be0d10cfe684c96e1d416c64576f55181dd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Le_miracle_de_lamour_60549c238c3f21000753d3e0_solidLogoPNG.png": {
+      "src_sha1": "ecc75fe07a729287e24da1c18b86e14bdeaf6499",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Louis_La_Brocante_5f8ed6d569d2d4000864a976_colorLogoPNG.png": {
+      "src_sha1": "9a105b649d8a4c5fd04bb2a87103979197ac8237",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Louis_La_Brocante_5f8ed6d569d2d4000864a976_solidLogoPNG.png": {
+      "src_sha1": "25e23bfcf6842b5da43fa765f0e6de7c12e92a07",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MacGyver_6245ccd0c6cdb800074632e4_colorLogoPNG.png": {
+      "src_sha1": "d297a973402583aaa4de3e29f0d418f7bf173fe6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MacGyver_6245ccd0c6cdb800074632e4_solidLogoPNG.png": {
+      "src_sha1": "ffb3c1b3bb2be60d4ef4e572edc0db091e8f424a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Melrose_Place_6245ceece1977a00079e2fbd_colorLogoPNG.png": {
+      "src_sha1": "d0accebe6aebc297798c643d5a56f5c3596c94b9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Melrose_Place_6245ceece1977a00079e2fbd_solidLogoPNG.png": {
+      "src_sha1": "10825d61a83f7c248e321b114d2f7e815854202d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Mes_parrains_sont_magiques_636250af6ba28c00084ba99c_colorLogoPNG.png": {
+      "src_sha1": "0bf776a3b5f48a8a8dd3fdb0d272ecf656bc0507",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Mes_parrains_sont_magiques_636250af6ba28c00084ba99c_solidLogoPNG.png": {
+      "src_sha1": "a47ad78a399e6f4febf88944998f0ae55e763f76",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MGG_Fast_6618e326635c75000845a4eb_colorLogoPNG.png": {
+      "src_sha1": "5994588318ade385aa2f9100862b4f89833195c6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MGG_Fast_6618e326635c75000845a4eb_solidLogoPNG.png": {
+      "src_sha1": "b37fbbd30c3faa5bd8651794ea991e3de0ba9c6c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Mission_Impossible_6671b21ffc3a46000857fe75_colorLogoPNG.png": {
+      "src_sha1": "b611cc3d6b76547f91207e9c9273fc8291d79133",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Mission_Impossible_6671b21ffc3a46000857fe75_solidLogoPNG.png": {
+      "src_sha1": "3d11e915cd39c9bca71bdc3520f0d001bbb384ec",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MODUS_Super_Series_Darts_671643fc5534bb00089187ad_colorLogoPNG.png": {
+      "src_sha1": "1b5b35a7840cea1143fe56706aadb6ce1d676bf2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MODUS_Super_Series_Darts_671643fc5534bb00089187ad_solidLogoPNG.png": {
+      "src_sha1": "56d5ef4ba54ba569945069ff90b2c2f5c3476c6a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Monster_Jam_655e053efbc15b00082277de_colorLogoPNG.png": {
+      "src_sha1": "9cf646bec51c68f1cfbfa671bc58c6be55232ded",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Monster_Jam_655e053efbc15b00082277de_solidLogoPNG.png": {
+      "src_sha1": "85e0b18f9061e12fbd2e9ef4b12b69bb47912e89",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Most_Haunted_66d722d31878f200081c2c64_colorLogoPNG.png": {
+      "src_sha1": "ba693216292656a7c58aa7bd6c11d61e8aa2ad4c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Most_Haunted_66d722d31878f200081c2c64_solidLogoPNG.png": {
+      "src_sha1": "15a37d1c643b697aa1d68b8f785f3e49cd1e9672",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MTV_CLASSICS_5f92b56a367e170007cd43f4_colorLogoPNG.png": {
+      "src_sha1": "b71bc171b9724aa3b89438c93b4c016e5a4434ac",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/MTV_CLASSICS_5f92b56a367e170007cd43f4_solidLogoPNG.png": {
+      "src_sha1": "e6fdc2904877e2baa7c6ed4699e87ecaf094c41c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Nature_Time_61fc0df14159c40007250432_colorLogoPNG.png": {
+      "src_sha1": "c480be97fa51494158b19f7ddd58d1179f5d3c38",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Nature_Time_61fc0df14159c40007250432_solidLogoPNG.png": {
+      "src_sha1": "675e56d71e379fefee9b41502d17fb288fd05569",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Olive_Tom_662a63275a402e00086bc8a5_colorLogoPNG.png": {
+      "src_sha1": "608d9bd605f63245fc274794fa07dd99e50705cf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Olive_Tom_662a63275a402e00086bc8a5_solidLogoPNG.png": {
+      "src_sha1": "608d9bd605f63245fc274794fa07dd99e50705cf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/One_Piece_6380c94947c72b0007ee9a13_colorLogoPNG.png": {
+      "src_sha1": "f9e53f4d1d5208d4451f42c65b5eb89880b937ab",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/One_Piece_6380c94947c72b0007ee9a13_solidLogoPNG.png": {
+      "src_sha1": "e889e3acb41d883ac0583f474a3de2b20d1baf32",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pacific_Blue_68d279fc840d8021ee1f1e50_colorLogoPNG.png": {
+      "src_sha1": "174b821a0c83b86acfbf3d6dbbfdc23f2f5b70a5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pacific_Blue_68d279fc840d8021ee1f1e50_solidLogoPNG.png": {
+      "src_sha1": "977336221ca845042a30786cb39bb3a89606444a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Plus_Belle_la_Vie_2_662a6309307fa30008196b4e_colorLogoPNG.png": {
+      "src_sha1": "d22d6b4261219016086db373497216ee9fbb44b3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Plus_Belle_la_Vie_2_662a6309307fa30008196b4e_solidLogoPNG.png": {
+      "src_sha1": "d48347e5d4a38beca926906a54b774ecf6dd3384",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Plus_Belle_La_Vie_5f8ed5fba4ffb8000764ea01_colorLogoPNG.png": {
+      "src_sha1": "1de80a463cff726a59896fa88e2f31e3d836b0c8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Plus_Belle_La_Vie_5f8ed5fba4ffb8000764ea01_solidLogoPNG.png": {
+      "src_sha1": "da349a36bbcbfff0a6a685ef31ec48f67aa0b854",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_2010s_Classics_66b498bc14a2bb00086965bc_colorLogoPNG.png": {
+      "src_sha1": "d6327295504e8404a1ba81d4cf10063e8bcd8113",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_2010s_Classics_66b498bc14a2bb00086965bc_solidLogoPNG.png": {
+      "src_sha1": "2dc06a3ee4c9fa800e34c2d706a46a36a3527345",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_90s_Classics_66b4990746762a00084c2f78_colorLogoPNG.png": {
+      "src_sha1": "a7f0b3ef6f395e5655ef915edbd6902670157b69",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_90s_Classics_66b4990746762a00084c2f78_solidLogoPNG.png": {
+      "src_sha1": "a096f4e6a5ba00247bf86643919b319e2944f429",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Animaux_60925a44f0350600075a1fdc_colorLogoPNG.png": {
+      "src_sha1": "1fd91097a170e92039732eb653f6bb5bb4602c6a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Animaux_60925a44f0350600075a1fdc_solidLogoPNG.png": {
+      "src_sha1": "9f4eac9e0aa3a3785eea3d0aa279871fbe618da4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Aventure_611e7811eb9daf000764cbfd_colorLogoPNG.png": {
+      "src_sha1": "f6b1d2b1956b88993421be33b0a41200a8e1d38e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Aventure_611e7811eb9daf000764cbfd_solidLogoPNG.png": {
+      "src_sha1": "01c2e5b32613cbe8772acd8e2b0fac11761e5f33",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Brigade_Criminelle_684bf01df7d8b74b625b7dd1_colorLogoPNG.png": {
+      "src_sha1": "e7275eee14e694b1d6e70573a9141ba5d3b0045b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Brigade_Criminelle_684bf01df7d8b74b625b7dd1_solidLogoPNG.png": {
+      "src_sha1": "462cec99b1afafb4607fc5777c82c09c8a554024",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Classic_Hip_Hop_625e79fe9b586d000785e330_colorLogoPNG.png": {
+      "src_sha1": "c2209a951b25fbc080e28626edfaaf253dd586e3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Classic_Hip_Hop_625e79fe9b586d000785e330_solidLogoPNG.png": {
+      "src_sha1": "37d36ba1028f27f1ca2f69c58a0e742517a83c2b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Classic_TV_FR_5e46ae801f347500099d461a_solidLogoPNG.png": {
+      "src_sha1": "b333360b4e31096ff8d440b741a3b01e8bc70388",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Comédie_5f8eb91bb9b9e7000817e67f_colorLogoPNG.png": {
+      "src_sha1": "aca55131df552ac8fa7f43449de482a9a70bbd7a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Comédie_5f8eb91bb9b9e7000817e67f_solidLogoPNG.png": {
+      "src_sha1": "5abef2479660697be0ecdc0cf099ad03e853700b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Cuisine_5f8ed48146ba9e00078424b6_colorLogoPNG.png": {
+      "src_sha1": "308c27996ea34754e89487c6f1338342e713b6cf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Cuisine_5f8ed48146ba9e00078424b6_solidLogoPNG.png": {
+      "src_sha1": "9ba3edd01beee594d9cd15d92b2f1ea023bfadec",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Dating_682318568e6c0f2f6c6e0038_colorLogoPNG.png": {
+      "src_sha1": "a060ccabc3903955cb6e638ade2b556b08ac75fe",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Dating_682318568e6c0f2f6c6e0038_solidLogoPNG.png": {
+      "src_sha1": "79901b08f9cdba57e3ce73cf232d0bf42f83ea68",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_French_Collection_62f3e0522443200008c567d7_colorLogoPNG.png": {
+      "src_sha1": "c828426bcfbe92f2b936d3eaa8a2872a3bcb0ea4",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_French_Collection_62f3e0522443200008c567d7_solidLogoPNG.png": {
+      "src_sha1": "74066e4be83c2e27d2babbb8796f174c7752692a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Histoire_611e771e2f5f180007002224_colorLogoPNG.png": {
+      "src_sha1": "5a06caa65d15f6e128760931e3f50e113d0b6e17",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Histoire_611e771e2f5f180007002224_solidLogoPNG.png": {
+      "src_sha1": "8434ec0aeeba357a98baddc5cd24340da3b7cbff",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Hits_France_66b228afd512590008c3d7d1_colorLogoPNG.png": {
+      "src_sha1": "c2b6c00756a002a0e0282491119bf51c3403a18e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Hits_France_66b228afd512590008c3d7d1_solidLogoPNG.png": {
+      "src_sha1": "ccce060fad417676e2e1c2eaff390b64bd5d3c55",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Inside_5f8ed3892ed7bb000741a1d2_colorLogoPNG.png": {
+      "src_sha1": "5bc0d49eb9bd9a228fbd4ef7f3d6763083b63d75",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Inside_5f8ed3892ed7bb000741a1d2_solidLogoPNG.png": {
+      "src_sha1": "256eaf16b4c8884255c01bb9fa20215ce5716ed5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Junior_5f8ecb336537e8000764a17f_colorLogoPNG.png": {
+      "src_sha1": "070528f2bfd58dd38380e7c272bf3c994ff64f0d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Junior_5f8ecb336537e8000764a17f_solidLogoPNG.png": {
+      "src_sha1": "175c4dc8a48313d152becc3b553127dcf63f0893",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Classics_654a58dbf9cc82000868f0fb_colorLogoPNG.png": {
+      "src_sha1": "00bb748ff41432f494a36c4c2fe0d1954cb57849",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Classics_654a58dbf9cc82000868f0fb_solidLogoPNG.png": {
+      "src_sha1": "f8be8a7c337734fa7bd7c9c77c5856aec7eff2c6",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Club_611e6ddc7fcd580007d1eb5f_colorLogoPNG.png": {
+      "src_sha1": "f2bea872aa9b5bda168ad19c621220c8364ba376",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Club_611e6ddc7fcd580007d1eb5f_solidLogoPNG.png": {
+      "src_sha1": "727dcbd1bf7fc8d66c391c1283b12a08e6b7fa74",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Collection_5f92b625c1ffbc0007e60c37_colorLogoPNG.png": {
+      "src_sha1": "2c5e1469cd4bbc4c610f48c1fd0dc4169642f014",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Kids_Collection_5f92b625c1ffbc0007e60c37_solidLogoPNG.png": {
+      "src_sha1": "994b624707bd613fd9113c991da13a5f27ac0cdf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Love_Songs_619b80acac5329000740c022_colorLogoPNG.png": {
+      "src_sha1": "02d5ea53ab63738e493913dc59f622b36c71cfaf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Love_Songs_619b80acac5329000740c022_solidLogoPNG.png": {
+      "src_sha1": "a7e7693701942e88ee374427735fa1aa47e16f45",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Paranormal_5f8ed9461b35690007a0bc3a_colorLogoPNG.png": {
+      "src_sha1": "8cc6be36fc762be805f755d7b50ad74f21102826",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Paranormal_5f8ed9461b35690007a0bc3a_solidLogoPNG.png": {
+      "src_sha1": "15e7bd767927f5cb73cb7cf3e7cdbc53a21342d0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Polar_5f8ed4dbf6bb0800071ffbcb_colorLogoPNG.png": {
+      "src_sha1": "798218c5ac85d9b158491e0350a988213ed80001",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Polar_5f8ed4dbf6bb0800071ffbcb_solidLogoPNG.png": {
+      "src_sha1": "a46f3916e49f6135a84d812d57b1ee08212a83c7",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Rap_65d4be214e01740008991d3b_colorLogoPNG.png": {
+      "src_sha1": "65531318aaa78368132a12da16a2c5f356888367",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Rap_65d4be214e01740008991d3b_solidLogoPNG.png": {
+      "src_sha1": "18865faa31aa8d7f84d2a28b71901d6c61a3d288",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Reality_6092544e7639460007d4835e_colorLogoPNG.png": {
+      "src_sha1": "66039e13348fbbff2d89d137a33612917c68fe36",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Reality_6092544e7639460007d4835e_solidLogoPNG.png": {
+      "src_sha1": "11cfb80e7506419b86b974d54054daa374bbfcba",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Retro_Toons_611e6a9b4bb5790007a6f0f8_colorLogoPNG.png": {
+      "src_sha1": "a1227272931f163c1d22ca0fe17769c0d67cd17c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Retro_Toons_611e6a9b4bb5790007a6f0f8_solidLogoPNG.png": {
+      "src_sha1": "e7b2db40decd586e2f5f084c69840334e4d04601",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Super_Kids_652557d93fd33c000802f995_colorLogoPNG.png": {
+      "src_sha1": "1eaacfa74266bfde052bb38a0caad8559efcf165",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Super_Kids_652557d93fd33c000802f995_solidLogoPNG.png": {
+      "src_sha1": "a8523f9d7299e7e402dec57f239aaf5731b9542b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Séries_Fantastiques_625ec7a1c853fd00073b38fd_colorLogoPNG.png": {
+      "src_sha1": "8e59b31795e59502864af3149003b95fd37ec577",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Séries_Fantastiques_625ec7a1c853fd00073b38fd_solidLogoPNG.png": {
+      "src_sha1": "97cc9ba72d82cafa12d3856a2963d7913f7bfc9f",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Teen_5f8eb99ff17815000784a3b0_colorLogoPNG.png": {
+      "src_sha1": "43b37669970c846dfaa1589ecc6a62c03d1d96dd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Teen_5f8eb99ff17815000784a3b0_solidLogoPNG.png": {
+      "src_sha1": "3e6cf36adcaff5a4bb98147f5572e24627ba35cd",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Toons_5f8eba14a4ffb8000764e950_colorLogoPNG.png": {
+      "src_sha1": "87b5ba17ed26a772ded21ac3c8c0725855b601b3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pluto_TV_Toons_5f8eba14a4ffb8000764e950_solidLogoPNG.png": {
+      "src_sha1": "064e7cad404f3145c4d0bfeee1707a5fd36c7f7a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pêche_à_haut_risque_678f894ef5c74bff95c20a7f_colorLogoPNG.png": {
+      "src_sha1": "9613a86eeffcff36749c3a1e88be6584eef28b10",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Pêche_à_haut_risque_678f894ef5c74bff95c20a7f_solidLogoPNG.png": {
+      "src_sha1": "d02b1bd9ba5c42d6cef1b4ed7fdb7aa3e86fa9ba",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Qui_veut_gagner_des_millions_652d0b9ceb72580008a4ea5b_colorLogoPNG.png": {
+      "src_sha1": "99978a80ecf58a709a3390727d8adb25fa4106a2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Qui_veut_gagner_des_millions_652d0b9ceb72580008a4ea5b_solidLogoPNG.png": {
+      "src_sha1": "1eb152128ca8bcb6c2c6f94ddfcf6272923b6e5e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Realmadrid_TV_65f96c0c2873090008d356d1_colorLogoPNG.png": {
+      "src_sha1": "840263e0585576e1f88888213c86902d9021327b",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Realmadrid_TV_65f96c0c2873090008d356d1_solidLogoPNG.png": {
+      "src_sha1": "87b8a83a324444a9326933f98e1db30a5fbe4aab",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ridiculousness_5f8eb8a8b2619a000710605c_colorLogoPNG.png": {
+      "src_sha1": "a280d8b19867a5d1b109877996bad93def63ef81",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ridiculousness_5f8eb8a8b2619a000710605c_solidLogoPNG.png": {
+      "src_sha1": "c3b1bcb1740e421913216851d17b60a6dd2e057c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Sabrina_la_série_animée_611e78c4954f250007ef7b84_colorLogoPNG.png": {
+      "src_sha1": "34f2c8f1bfed0431990c0629139e9451e6170d7e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Sabrina_la_série_animée_611e78c4954f250007ef7b84_solidLogoPNG.png": {
+      "src_sha1": "a859e9257718131a253f228fe97d72a2c71bc1d1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Saga_dhorreur_by_Pluto_TV_686e74e804363cf1e629f6d2_colorLogoPNG.png": {
+      "src_sha1": "eb43b6cd9c464ec54a3d61b6c35eb4e04805a8c8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Saga_dhorreur_by_Pluto_TV_686e74e804363cf1e629f6d2_solidLogoPNG.png": {
+      "src_sha1": "e85f2c8a2225a1ca4449b9be564a2c51bc94dadb",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Series_by_Pluto_TV_5f8ed2d1c34c2300073bf02c_colorLogoPNG.png": {
+      "src_sha1": "f04b700867e0ffc6c3c2a43be7600c203131d935",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Series_by_Pluto_TV_5f8ed2d1c34c2300073bf02c_solidLogoPNG.png": {
+      "src_sha1": "ba31ba843502e3374c3f22b4856cfb54a54a35b1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Starsky_Hutch_6304979e62d51c000722df46_colorLogoPNG.png": {
+      "src_sha1": "c67231b6de6fa19c02bf193734b18666a394db2e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Starsky_Hutch_6304979e62d51c000722df46_solidLogoPNG.png": {
+      "src_sha1": "1a3054ddbf4007dcbe501d9f777cd56697ebbfaf",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Star_Trek_The_Original_Series_67b4b3c51a5ca760802cc1c7_colorLogoPNG.png": {
+      "src_sha1": "6d92bef9ce0a2d616975f9193d6d26c9c3461ea2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Star_Trek_The_Original_Series_67b4b3c51a5ca760802cc1c7_solidLogoPNG.png": {
+      "src_sha1": "2c7408358b4a80eafb39f015e2635fe13952b5fa",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Teen_Mom_62f3f05505e621000783df2f_colorLogoPNG.png": {
+      "src_sha1": "becacc5d11b11b50a8710e5084a008a96dc97265",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Teen_Mom_62f3f05505e621000783df2f_solidLogoPNG.png": {
+      "src_sha1": "dba140372aed3ad9e0fd749d181a7bbfaf0f259e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/The_Asylum_5f8ece1a89d79800072510e6_colorLogoPNG.png": {
+      "src_sha1": "a86906542a81861cd60c7c9904a8ea128550b4a0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/The_Asylum_5f8ece1a89d79800072510e6_solidLogoPNG.png": {
+      "src_sha1": "49749ee7bd1ca38fefecdf104706f82cc95ffa19",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Top_Gear_64c1093824ade50008bd117f_colorLogoPNG.png": {
+      "src_sha1": "3715f6506fa7a88ef06f16b2668cb60280e19da3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Top_Gear_64c1093824ade50008bd117f_solidLogoPNG.png": {
+      "src_sha1": "35a6baa2009de7629edcfa0ddc6f0c121c6f9316",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Tortues_Ninja_TV_5f8ecc1b37867f00071469e9_colorLogoPNG.png": {
+      "src_sha1": "5b336b35471c9c67be878fc002eb080bfbbf583c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Tortues_Ninja_TV_5f8ecc1b37867f00071469e9_solidLogoPNG.png": {
+      "src_sha1": "2a5f0723d6e98a9ab711e1bcc84c83fe80ee2927",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Toute_une_histoire_62f3e6aebcdda4000754fa47_colorLogoPNG.png": {
+      "src_sha1": "e8dd72ea6a69456b9eb93b745cef142be6dabbe1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Toute_une_histoire_62f3e6aebcdda4000754fa47_solidLogoPNG.png": {
+      "src_sha1": "3a3a0a046315931c52884ef5f87ec2f4e7fb2420",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Tout_le_monde_déteste_Chris_67b4b4a21a5ca760802d25fd_colorLogoPNG.png": {
+      "src_sha1": "224604a8adea48b7f5eed43f2a5e9613efd265f1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Tout_le_monde_déteste_Chris_67b4b4a21a5ca760802d25fd_solidLogoPNG.png": {
+      "src_sha1": "636449c668b17347c94ec1381b1ffde2b9b524c5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/True_Crime_by_Pluto_TV_5f914f4b36d67d0007a91a04_colorLogoPNG.png": {
+      "src_sha1": "6dd6a807e6fab44539a68edfaad1bb4ee1147af1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/True_Crime_by_Pluto_TV_5f914f4b36d67d0007a91a04_solidLogoPNG.png": {
+      "src_sha1": "8c760e621f0c26684424a35f6a45274e10e46c61",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Turbo_66f55c3955567d0008ef9b68_colorLogoPNG.png": {
+      "src_sha1": "5f3c572d4d6920b1509beae56317aa4d93bbd3d9",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Turbo_66f55c3955567d0008ef9b68_solidLogoPNG.png": {
+      "src_sha1": "d802b51c1fd732601332ed08bd9ac6b37777ed20",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Téléfilms_de_Noël_by_Pluto_TV_65251c3a9c7aeb00083741c9_colorLogoPNG.png": {
+      "src_sha1": "e0b7d5b8ff922f78d135256fea0ffccaaca2bb34",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Téléfilms_de_Noël_by_Pluto_TV_65251c3a9c7aeb00083741c9_solidLogoPNG.png": {
+      "src_sha1": "491c590ae67feeb05cae5f916cfa1d4a63a87990",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/UFC_67921b78b83355184c667770_colorLogoPNG.png": {
+      "src_sha1": "c91f907ab85c68a7a23dafc0a636a06c4ab3fa71",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/UFC_67921b78b83355184c667770_solidLogoPNG.png": {
+      "src_sha1": "d4f09c16e937080d141b6623851361aef87e66ba",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_gars_une_fille_62f3ece7b09fd6000783bfb9_colorLogoPNG.png": {
+      "src_sha1": "c7791b1c6b921f23c4f23ed8ca9e3ac4222b9595",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_gars_une_fille_62f3ece7b09fd6000783bfb9_solidLogoPNG.png": {
+      "src_sha1": "e237817f9259a03ced0477bc02c847d09e382860",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_Si_Grand_Soleil_6683cd0f63a5f20008fb84a3_colorLogoPNG.png": {
+      "src_sha1": "01ad7f47e9e30ecae80661e52a317bf2e8e19205",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_Si_Grand_Soleil_6683cd0f63a5f20008fb84a3_solidLogoPNG.png": {
+      "src_sha1": "01ad7f47e9e30ecae80661e52a317bf2e8e19205",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_Village_Français_6304f2e2eb10450007298023_colorLogoPNG.png": {
+      "src_sha1": "1f44e6d7672d9a2b8ae7416a0270a5a1c36e6f0d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Un_Village_Français_6304f2e2eb10450007298023_solidLogoPNG.png": {
+      "src_sha1": "a82972a5f3c9deda265d078538b3ae4e1cab701a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Classics_667d3794ca746800086962c7_colorLogoPNG.png": {
+      "src_sha1": "32e4001728ad1aa75189f6dbc1165417a2e8efb1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Classics_667d3794ca746800086962c7_solidLogoPNG.png": {
+      "src_sha1": "b07d85f00790ce769c428373829b52c6742b7ee5",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Halloween_667d3867a1d7ad0008592502_colorLogoPNG.png": {
+      "src_sha1": "c7b068fbc88fe619993892af4c9b8f150cac1ef1",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Halloween_667d3867a1d7ad0008592502_solidLogoPNG.png": {
+      "src_sha1": "38127985f82eb6f595bc37b2999435b4ffa194e3",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Rock_6447d08f2858cb0008b9957c_colorLogoPNG.png": {
+      "src_sha1": "08f2328600a7a85dd3048c725d24e77f46aef04a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/VH1_Rock_6447d08f2858cb0008b9957c_solidLogoPNG.png": {
+      "src_sha1": "e6cd3287f9cd77982ecbe2fcee903a8afb16ab0d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Victorious_64bab8830e086a0009d44273_colorLogoPNG.png": {
+      "src_sha1": "d2d4e58a2dfa73dd56d44bd573c16c617e4c8956",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Victorious_64bab8830e086a0009d44273_solidLogoPNG.png": {
+      "src_sha1": "b67aabb613c1b1e133a49a03ac5e6a17b7f56d37",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Voyages_Saveurs_680291e38e1ff89c2427aefd_colorLogoPNG.png": {
+      "src_sha1": "9d74c22cbb36f87c65201690ef429c087a6178fb",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Voyages_Saveurs_680291e38e1ff89c2427aefd_solidLogoPNG.png": {
+      "src_sha1": "cd4d1a2aa03e29e533f8250c7d1cf852d5d9ef9d",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Walker_Texas_Ranger_60afa749ac7f3200078adb40_colorLogoPNG.png": {
+      "src_sha1": "d27893808c5ffaf707a05f1f4f586ac007acd55c",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Walker_Texas_Ranger_60afa749ac7f3200078adb40_solidLogoPNG.png": {
+      "src_sha1": "453f37b7c1bf180c0af3cc544a97fe8b7d39ac1e",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Wild_Side_TV_60b4d6c806ad2a00073b3108_colorLogoPNG.png": {
+      "src_sha1": "6c9b9b314e547c8025532638a9f124e0e13c2539",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Wild_Side_TV_60b4d6c806ad2a00073b3108_solidLogoPNG.png": {
+      "src_sha1": "484159a6c619132a592661a4cd6f08d4aebe4920",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/WPT_5f8ecfb9db6c180007a6d1b0_colorLogoPNG.png": {
+      "src_sha1": "bb15dcd56be79d6e1f80df292943b9a84485df81",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/WPT_5f8ecfb9db6c180007a6d1b0_solidLogoPNG.png": {
+      "src_sha1": "9fd88c37e739ed0b092a049d1c5927f92d14d4e2",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ya_que_la_vérité_qui_compte_612e044c970e6f00083bcf3b_colorLogoPNG.png": {
+      "src_sha1": "7879fbe8eff1e28ee928a8cb68c9bf079122c0a8",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Ya_que_la_vérité_qui_compte_612e044c970e6f00083bcf3b_solidLogoPNG.png": {
+      "src_sha1": "258512be119ccb66cb6e71905add3e76f74c4726",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Yu_Gi_Oh_6130d9c712c2b000070abb50_colorLogoPNG.png": {
+      "src_sha1": "e31cb743d548b842bd12d8bf356de4aa2effdf57",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Yu_Gi_Oh_6130d9c712c2b000070abb50_solidLogoPNG.png": {
+      "src_sha1": "f6628cd497e31e824d744ae845bbae37ed8fa919",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Zoey_101_6500691f98020f00084cf642_colorLogoPNG.png": {
+      "src_sha1": "e355a7062c4db3704bef9156068ba624d89f3f50",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Zoey_101_6500691f98020f00084cf642_solidLogoPNG.png": {
+      "src_sha1": "37b3151bd87ce0afd8230cc2413fff19367bec22",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Zone_Interdite_66f55cf2483d460008f68746_colorLogoPNG.png": {
+      "src_sha1": "174a89c22874229f0ef0c561b480e6be8ef0a40a",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Zone_Interdite_66f55cf2483d460008f68746_solidLogoPNG.png": {
+      "src_sha1": "54e81742ecaca9c511ef50237b3d6616df4897a0",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Z_Nation_66b227b446762a000846c208_colorLogoPNG.png": {
+      "src_sha1": "1657d052e1f7c3ea7492821b0c722bf469b72123",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
+    },
+    "Pluto.tv/FR/Z_Nation_66b227b446762a000846c208_solidLogoPNG.png": {
+      "src_sha1": "f4f069699f0d2464c54a73cdaed3ecb1511f98ff",
+      "cfg": {
+        "frame_w": 512,
+        "frame_h": 250,
+        "prefix": "sxa_",
+        "allow_upscale": true,
+        "svg_engine": "auto",
+        "version": 2
+      }
     }
   }
 }
